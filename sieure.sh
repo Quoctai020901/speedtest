@@ -154,7 +154,7 @@ caidat_xrayr() {
   bash <(curl -Ls https://raw.githubusercontent.com/qtai2901/XrayR-release/main/install.sh)
   clear
   pre_install
-  config_web_chinh
+  config
   cd /root
   echo "Bắt đầu chạy dịch vụ "
   xrayr start
