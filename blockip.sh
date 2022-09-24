@@ -91,5 +91,4 @@ iptables -I INPUT -s 50.116.57.237 -j DROP
 iptables -I INPUT -s 50.116.39.117 -j DROP
 iptables -I INPUT -s 50.116.25.154 -j DROP
 iptables -I INPUT -s 50.116.14.9 -j DROP
-clear
-echo "   DONE !"
+
